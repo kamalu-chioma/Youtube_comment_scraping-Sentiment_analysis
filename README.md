@@ -14,7 +14,7 @@ Process:
 - After the Classification, The result of the classification was visualized using a bar graph, to show the obvious comparison between the records
 
 
-
+<br>
 - View result for the Negative Label below:
 
 ![ysa1](https://user-images.githubusercontent.com/43454449/174496941-41385e35-0352-440a-a892-caf9ad3dbfb4.PNG)
@@ -27,6 +27,8 @@ Process:
 
 (The taller the bar, the more positive the comment)
 
+
+<br>
 
 A little interpretation of the result🙃:
 
