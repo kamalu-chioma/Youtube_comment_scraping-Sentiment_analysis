@@ -6,7 +6,7 @@ Process:
 - Web scraping was done using Obsei, an open source AI automation tool. (https://obsei.github.io/obsei/)
 - The scraper already existed in the YoutubeScrapperSource module of Obsei, which made the task a lot easier.
 - The classification algorithm also existed in the ClassificationAnalyzer module.
-- The target youtube video had to be one that had a spark of emotions in the comment section, so I chose one of the most viewed and talked about events thus far in 2022, to scrap its comment. View Ipynb file to know the video 🙃
+- The target youtube video had to be one that had a spark of emotions in the comment section, so I chose one of the most viewed and talked about events thus far in 2022, to scrape its comment. 
 - Zero Shot Classification Analyzer was used as technique because it does not require prior data or information on the text given. 
 - Labels used for the analyzer were ['Positive and 'Negative'].
 - A limit of 50 was set for data to be collected. The comments were selected randomly.
